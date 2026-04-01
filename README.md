@@ -15,6 +15,9 @@ Interactive math visualizations that run in the browser. Covers chaos theory, to
 
 ---
 
+## Quick Demo:
+![Demo of Math Phenomena](assets/demo.gif)
+
 ## :art: Visualizations
 
 - **Lorenz Attractor**: Animated 3D trajectory of the classic chaotic system. Includes a camera orbit, the differential equations, and the story of how Lorenz stumbled onto chaos in 1963.
